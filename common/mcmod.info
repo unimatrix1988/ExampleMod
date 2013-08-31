@@ -1,0 +1,20 @@
+[
+{
+  "modid": "testmod",
+  "name": "Test Mod",
+  "description": "Mod to look at best practices in MC modding",
+  "version": "0.1",
+  "url": "https://github.com/unimatrix1988/testmod.git",
+  "updateUrl": "",
+  "authorList": [
+    "unimatrix"
+  ],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
