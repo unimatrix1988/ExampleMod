@@ -3,7 +3,7 @@
   "modid": "ExampleMod",
   "name": "Example Mod",
   "description": "Minecraft Mod to show Core Mod coding practices and save working examples of Core Techniques",
-  "version": "0.0.0.1",
+  "version": "1.0.0.1",
   "url": "https://github.com/unimatrix1988/ExampleMod.git",
   "updateUrl": "",
   "authorList": [
